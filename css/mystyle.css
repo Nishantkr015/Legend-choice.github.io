@@ -1,0 +1,52 @@
+.top_bar{background:#00bfff; padding:5px 0;}
+.social_icons{margin-right:5;}
+.contact_info{color:#000000; font-size:16px;}
+
+.my_menu{margin-top:27px;}
+
+.my_menu .navbar-default{background:none; border:none;}
+
+.my_menu .navbar-nav .active a, .my_menu .navbar-nav .active a:hover{background:#f26522; color:#fff;}
+
+.my_menu .navbar-nav li a:hover{background:#00bfff; color:3fff;}
+
+.watch{margin-top:80px; margin-bottom:10px;height:200px;width:390px;}
+.model{margin-top:10px; margin-bottom:20px;height:200px;width:390px;}
+
+
+.India1{margin-top:70px; margin-bottom:10px;height:200px;width:390px;}
+.gabru{margin-top:10px; margin-bottom:20px;height:200px;width:390px;}
+
+
+ 
+.our_support{background:radial-gradient(circle, #009cde, #003087); padding:25px 0;transition: capacity 0.35s; }
+.our_support h1{color:#fff;}
+ 
+.our_support .top_margin{margin-top:35px;}
+
+.footer{background:#00bfff; padding:20px 0;}
+
+.footer{color:#000000;}
+
+.footer p{color:#000000; margin-top:10px; margin-bottom:5px 0;}
+
+.footer ul{list-style:none; margin:0; padding:0;}
+
+.footer ul li a{color:#000000; font-size:15px;}
+
+H1{
+	text-align:right;
+	font-size:40px;
+	color:blue;
+	
+}
+
+h3{
+	color:red;
+}
+
+
+
+
+
+
